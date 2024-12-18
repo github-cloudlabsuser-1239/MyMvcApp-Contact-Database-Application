@@ -3,7 +3,7 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
       "webAppName": {
-        "value": "MyMvcApp4" 
+        "value": "MyMvcApp67" 
       },
       "appServicePlanName": {
         "value": "ASP-MyMvcApp4group-a412"
