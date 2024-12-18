@@ -3,10 +3,10 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
       "webAppName": {
-        "value": "MyMvcApp"
+        "value": "MyMvcApp3"
       },
       "appServicePlanName": {
-        "value": "MyMvcAppServicePlan"
+        "value": "ASP-GitHubCopilotChallenges-92d6"
       }
     }
   }
